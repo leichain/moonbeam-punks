@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/moonbeam-punks/static/css/main.b6f72267.chunk.css",
-    "main.js": "/moonbeam-punks/static/js/main.2e5b5876.chunk.js",
-    "main.js.map": "/moonbeam-punks/static/js/main.2e5b5876.chunk.js.map",
+    "main.js": "/moonbeam-punks/static/js/main.fda68689.chunk.js",
+    "main.js.map": "/moonbeam-punks/static/js/main.fda68689.chunk.js.map",
     "runtime-main.js": "/moonbeam-punks/static/js/runtime-main.b79b811a.js",
     "runtime-main.js.map": "/moonbeam-punks/static/js/runtime-main.b79b811a.js.map",
     "static/js/2.1464311c.chunk.js": "/moonbeam-punks/static/js/2.1464311c.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b79b811a.js",
     "static/js/2.1464311c.chunk.js",
     "static/css/main.b6f72267.chunk.css",
-    "static/js/main.2e5b5876.chunk.js"
+    "static/js/main.fda68689.chunk.js"
   ]
 }
